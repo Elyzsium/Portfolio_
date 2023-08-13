@@ -257,6 +257,8 @@ img{
 /* .home_data{
     
 } */
+
+
 .home_content{
     grid-template-columns: .5fr 3fr;
     padding-top: 3.5rem;
@@ -891,6 +893,7 @@ x
     .container{
         margin-left: auto;
         margin-right: auto;
+        
     }
 
     body{
